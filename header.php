@@ -248,7 +248,7 @@
                     </div>
                     <div class="content">
                         <h5>Our Location</h5>
-                        <p>55 Main Street,2nd block, New York</p>
+                        <p><?=$site_address?></p>
                     </div>
                 </div>
                 <div class="contact-info-items d-flex align-items-center">
@@ -316,7 +316,7 @@
             </div>
             <div class="content">
                 <p>Location</p>
-                <h6>Main Street, Melbourne, Australia</h6>
+                <h6><?=$site_address?></h6>
             </div>
         </div>
         <div class="icon__item">
@@ -325,7 +325,7 @@
             </div>
             <div class="content">
                 <p>Email Address</p>
-                <h6>melbourne.support@fnbamerica.com</h6>
+                <h6><?=$site_email?></h6>
             </div>
         </div>
         <div class="icon__item">
