@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="<?=$site_name?>">
     <!-- Page title -->
-    <title><?=$site_name?> - <?=$site_des?></title>
+    <title><?=$pageName?> <?=$site_name?> - <?=$site_des?></title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="/assets/img/favicon/favicon.png">
     <!-- Bootstrap min.css -->

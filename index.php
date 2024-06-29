@@ -1,4 +1,5 @@
 <?php
+$pageName = 'Home';
 const rootDir = '/home/multistream6/domains/rsfcorporation.com/public_html/';
 require_once rootDir . 'config/config.php';
 require_once rootDir . 'header.php';

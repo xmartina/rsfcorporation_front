@@ -36,7 +36,7 @@
                             </a>
                         </div>
                         <p>
-                            At First National Bank of America, we're committed to your financial success. With personalized service and innovative solutions, we're here to support you every step of the way on your financial journey.
+                            At <?=$site_name?>, we're committed to your financial success. With personalized service and innovative solutions, we're here to support you every step of the way on your financial journey.
                         </p>
                         <ul class="social-icon">
                             <li>
