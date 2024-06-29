@@ -8,23 +8,23 @@
     <!-- Page title -->
     <title><?=$site_name?> - <?=$site_des?></title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/favicon/favicon.png">
+    <link rel="shortcut icon" href="/assets/img/favicon/favicon.png">
     <!-- Bootstrap min.css -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <!-- Font Awesome.css -->
-    <link rel="stylesheet" href="assets/css/font-awesome.css">
+    <link rel="stylesheet" href="/assets/css/font-awesome.css">
     <!-- Animate.css -->
-    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="/assets/css/animate.css">
     <!-- Magnific Popup.css -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css">
     <!-- MeanMenu.css -->
-    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <link rel="stylesheet" href="/assets/css/meanmenu.css">
     <!-- Swiper Bundle.css -->
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="/assets/css/swiper.min.css">
     <!-- Nice Select.css -->
-    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="/assets/css/nice-select.css">
     <!-- Main.css -->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
     <!-- Style.css -->
     <link rel="stylesheet" href="style.css">
     <!-- template main style css file -->
@@ -107,7 +107,7 @@
 <header class="main-header main-header-1">
     <div class="main-logo">
         <a href="/">
-            <img src="assets/img/logo/logo.png" alt="logo-image">
+            <img src="/assets/img/logo/logo.png" alt="logo-image">
         </a>
     </div>
     <div class="main-button">
@@ -159,13 +159,13 @@
                         <div class="col-xl-9 col-lg-9 col-md-6">
                             <div class="logo-1">
                                 <a href="/">
-                                    <img src="assets/img/logo/logo.png" alt="logo-img">
+                                    <img src="/assets/img/logo/logo.png" alt="logo-img">
                                 </a>
                             </div>
                             <div class="menu">
                                 <div class="sticky-logo">
                                     <a href="/">
-                                        <img src="assets/img/logo/logo.png" alt="logo-img">
+                                        <img src="/assets/img/logo/logo.png" alt="logo-img">
                                     </a>
                                 </div>
                                 <nav id="main-menu" class="main-menu">
@@ -208,7 +208,7 @@
                                 </div>
                                 <div class="header-dots">
                                     <button id="openButton">
-                                        <img src="assets/img/logo/bar.png" alt="dots">
+                                        <img src="/assets/img/logo/bar.png" alt="dots">
                                     </button>
                                 </div>
                             </div>
@@ -234,7 +234,7 @@
         <div class="menu-sidebar-content">
             <div class="menu-sidebar-logo">
                 <a href="/">
-                    <img src="assets/img/logo/logo.png" alt="logo">
+                    <img src="/assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
             <div class="mobile-nav-menu"></div>
@@ -304,7 +304,7 @@
 <div id="targetElement" class="side_bar slideInRight side_bar_hidden">
     <div class="side_bar_overlay"></div>
     <div class="logo mb-50">
-        <img src="assets/img/logo/footer-logo.png" alt="logo">
+        <img src="/assets/img/logo/footer-logo.png" alt="logo">
     </div>
     <p>
         Tailored financial solutions, innovation, and dedication ensure excellence. Your financial goals matter most.
@@ -351,19 +351,19 @@
         <div class="gallery-wrap">
             <div class="gallery-item">
                 <div class="thumb">
-                    <img src="assets/img/gallery/gallery1.png" alt="gallery__img">
+                    <img src="/assets/img/gallery/gallery1.png" alt="gallery__img">
                     <div class="icon">
                         <i class="far fa-plus"></i>
                     </div>
                 </div>
                 <div class="thumb">
-                    <img src="assets/img/gallery/gallery2.png" alt="gallery__img">
+                    <img src="/assets/img/gallery/gallery2.png" alt="gallery__img">
                     <div class="icon">
                         <i class="far fa-plus"></i>
                     </div>
                 </div>
                 <div class="thumb">
-                    <img src="assets/img/gallery/gallery3.png" alt="gallery__img">
+                    <img src="/assets/img/gallery/gallery3.png" alt="gallery__img">
                     <div class="icon">
                         <i class="far fa-plus"></i>
                     </div>
@@ -371,19 +371,19 @@
             </div>
             <div class="gallery-item">
                 <div class="thumb">
-                    <img src="assets/img/gallery/gallery4.png" alt="gallery__img">
+                    <img src="/assets/img/gallery/gallery4.png" alt="gallery__img">
                     <div class="icon">
                         <i class="far fa-plus"></i>
                     </div>
                 </div>
                 <div class="thumb">
-                    <img src="assets/img/gallery/gallery5.png" alt="gallery__img">
+                    <img src="/assets/img/gallery/gallery5.png" alt="gallery__img">
                     <div class="icon">
                         <i class="far fa-plus"></i>
                     </div>
                 </div>
                 <div class="thumb">
-                    <img src="assets/img/gallery/gallery6.png" alt="gallery__img">
+                    <img src="/assets/img/gallery/gallery6.png" alt="gallery__img">
                     <div class="icon">
                         <i class="far fa-plus"></i>
                     </div>
