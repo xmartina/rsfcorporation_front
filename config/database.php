@@ -2,9 +2,9 @@
 function dbConnect()
 {
     $servername = "localhost";
-    $username = "multistream6_fnbamerica_front";//DATABASE USERNAME
-    $password = "fnbamerica_front";//DATABASE PASSWORD
-    $database = "multistream6_fnbamerica_front";//DATABASE NAME
+    $username = "multistream6_rsfcorporation_front";//DATABASE USERNAME
+    $password = "rsfcorporation_front";//DATABASE PASSWORD
+    $database = "multistream6_rsfcorporation_front";//DATABASE NAME
     $dns = "mysql:host=$servername;dbname=$database";
 
     try {
