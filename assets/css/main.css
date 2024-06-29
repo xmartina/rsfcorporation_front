@@ -12,7 +12,8 @@ Version: 1.0.0
 :root {
   --body: #fff;
   --white: #fff;
-  --theme: #DF0A0A;
+/*  --theme: #DF0A0A; */
+  --theme: #528400;
   --theme2: #002FF5;
   --theme3: #00A9A4;
   --theme4: #57b33e;
