@@ -28,6 +28,9 @@
     <!-- Style.css -->
     <link rel="stylesheet" href="style.css">
     <!-- template main style css file -->
+
+    <!--Support Code -->
+    <script src='//fw-cdn.com/11598087/4248694.js' chat='true'></script>
 </head>
 
 <body>
@@ -37,35 +40,47 @@
         <div class="spinner style-2">
         </div>
         <div class="txt-loading">
-                    <span data-text-preloader="F" class="letters-loading">
-                    F
-                    </span>
-            <span data-text-preloader="N" class="letters-loading">
-                    N
-                    </span>
-            <span data-text-preloader="B" class="letters-loading">
-                    B
-                    </span>
-            <span data-text-preloader="A" class="letters-loading">
-                    A
-                    </span>
-            <span data-text-preloader="M" class="letters-loading">
-                    M
-                    </span>
-            <span data-text-preloader="E" class="letters-loading">
-                    E
-                    </span>
-            <span data-text-preloader="R" class="letters-loading">
+                    <span data-text-preloader="R" class="letters-loading">
                     R
                     </span>
-            <span data-text-preloader="I" class="letters-loading">
-                    I
+            <span data-text-preloader="S" class="letters-loading">
+                    S
+                    </span>
+            <span data-text-preloader="F" class="letters-loading">
+                    F
                     </span>
             <span data-text-preloader="C" class="letters-loading">
                     C
                     </span>
+            <span data-text-preloader="O" class="letters-loading">
+                    O
+                    </span>
+            <span data-text-preloader="R" class="letters-loading">
+                    R
+                    </span>
+            <span data-text-preloader="P" class="letters-loading">
+                    P
+                    </span>
+            <span data-text-preloader="O" class="letters-loading">
+                    O
+                    </span>
+            <span data-text-preloader="R" class="letters-loading">
+                    R
+                    </span>
             <span data-text-preloader="A" class="letters-loading">
                     A
+                    </span>
+            <span data-text-preloader="T" class="letters-loading">
+                    T
+                    </span>
+            <span data-text-preloader="I" class="letters-loading">
+                    I
+                    </span>
+            <span data-text-preloader="O" class="letters-loading">
+                    O
+                    </span>
+            <span data-text-preloader="N" class="letters-loading">
+                    N
                     </span>
         </div>
         <p class="text-center">Loading</p>
@@ -166,6 +181,7 @@
                                                 <li><a href="#">Insurance Services</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="#">Accessibility</a></li>
                                         <li><a href="#">News</a></li>
                                         <li class="dropdown">
                                             <a href="#">Support & FAQs</a>
