@@ -1,5 +1,5 @@
 <?php
-const rootDir = '/home/multistream6/domains/fnbamerica.com/public_html/';
+const rootDir = '/home/multistream6/domains/rsfcorporation.com/public_html/';
 require_once rootDir . 'config/config.php';
 require_once rootDir . 'header.php';
 ?>
