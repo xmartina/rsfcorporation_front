@@ -12593,3 +12593,8 @@ p.sticky-label {
 .single-funfact-items .single-circle-bar .circle-bar .right.color-2 {
   background-color: var(--theme5);
 }
+
+/*Added*/
+.contact-list li{
+  font-size:14px;
+}
