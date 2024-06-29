@@ -246,14 +246,14 @@ require_once rootDir . 'header.php';
                                     About Company
                                     </span>
                             <h2>
-                                Welcome to First National Bank of America
+                                Welcome to <?=$site_name?>
                             </h2>
                         </div>
                         <h3>
                             Unlocking Growth Exploring the Powerhouse Features <br> of Our <a href="#">Financial Solutions</a>
                         </h3>
                         <p class="text">
-                            At First National Bank of America, we're more than just a bank. We're your ally in achieving your financial goals. With a commitment to excellence and personalized service, we offer a wide range of banking solutions designed to meet your needs.
+                            At <?=$site_name?>, we're more than just a bank. We're your ally in achieving your financial goals. With a commitment to excellence and personalized service, we offer a wide range of banking solutions designed to meet your needs.
                         </p>
                         <div class="about-info mt-5">
                             <a href="about" class="theme-btn bg-style-2">Learn More Us</a>
@@ -447,7 +447,7 @@ require_once rootDir . 'header.php';
                             </h2>
                         </div>
                         <p>
-                            At First National Bank of America, we stand out for our unwavering commitment to our customers. Here's why you should choose us
+                            At <?=$site_name?>, we stand out for our unwavering commitment to our customers. Here's why you should choose us
                         </p>
                         <div class="circle-progress-bar-wrapper d-flex">
                             <div class="single-circle-bar">
