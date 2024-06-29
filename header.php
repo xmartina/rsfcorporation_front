@@ -203,7 +203,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Urgent Call</p>
-                                        <h6>+123 456 789</h6>
+                                        <h6><?=$site_number?></h6>
                                     </div>
                                 </div>
                                 <div class="header-dots">
@@ -275,7 +275,7 @@
                     </div>
                     <div class="content">
                         <h5>Make A Call</h5>
-                        <p>+123 456 789</p>
+                        <p><?=$site_number?></p>
                     </div>
                 </div>
             </div>
@@ -334,7 +334,7 @@
             </div>
             <div class="content">
                 <p>Make A Call</p>
-                <h6>+123 (345) 457</h6>
+                <h6><?=$site_number?></h6>
             </div>
         </div>
         <div class="icon__item">
